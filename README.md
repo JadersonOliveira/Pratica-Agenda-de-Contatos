@@ -1,5 +1,7 @@
 # Pratica-Agenda-de-Contatos
 Agenda de contatos utilizando PHP e banco de dados MySQL.
+<br>
+<i>Cadastros fictícios.</i>
 
 <p align="left">
          <img alt="main" src="https://github.com/JadersonOliveira/Pratica-Agenda-de-Contatos/blob/main/main.PNG" width="900">
