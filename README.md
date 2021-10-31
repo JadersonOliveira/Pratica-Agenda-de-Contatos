@@ -12,17 +12,17 @@ Agenda de contatos utilizando PHP e banco de dados MySQL.
 <p align="left">
          <img alt="novo contato" src="https://github.com/JadersonOliveira/Pratica-Agenda-de-Contatos/blob/main/novo%20contato.PNG" width="900">
         <br>
-          <em>Novo contato</em>
+          <em>Novo contato (novo contato.png)</em>
 </p>
 
 <p align="left">
          <img alt="editar contato" src="https://github.com/JadersonOliveira/Pratica-Agenda-de-Contatos/blob/main/editar%20contato.PNG" height="600">
         <br>
-          <em>Editar contato</em>
+          <em>Editar contato (editar contato.png)</em>
 </p>
 
 <p align="left">
          <img alt="visualizar contato" src="https://github.com/JadersonOliveira/Pratica-Agenda-de-Contatos/blob/main/visualizar%20contato.PNG" height="675">
         <br>
-          <em>Visualizar contato</em>
+          <em>Visualizar contato (visualizar contato.png)</em>
 </p>
